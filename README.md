@@ -1,2 +1,0 @@
-# chapter7
-BLACK HAT PYTHON CHAPTER7
